@@ -1,0 +1,7 @@
+name 'libtool'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures libtool'
+long_description 'Installs/Configures libtool'
+version '0.1.0'
